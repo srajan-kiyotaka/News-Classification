@@ -3,3 +3,4 @@
 ## PreProcessing
 ### `TOKENIZATION`
 ### `Stop Word Removal`
+### `Stemming`
