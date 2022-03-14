@@ -4,3 +4,4 @@
 ### `TOKENIZATION`
 ### `Stop Word Removal`
 ### `Stemming`
+- `Lancaster`
