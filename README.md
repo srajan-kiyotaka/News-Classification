@@ -5,3 +5,4 @@
 ### `Stop Word Removal`
 ### `Stemming`
 - `Lancaster`
+- `Porter`
