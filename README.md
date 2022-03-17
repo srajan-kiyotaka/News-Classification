@@ -6,3 +6,4 @@
 ### `Stemming`
 - `Lancaster`
 - `Porter`
+- `SnowBall`
